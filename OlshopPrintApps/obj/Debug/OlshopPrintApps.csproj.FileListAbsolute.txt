@@ -1,0 +1,9 @@
+C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\bin\Debug\OlshopPrintApps.exe.config
+C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\bin\Debug\OlshopPrintApps.exe
+C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\bin\Debug\OlshopPrintApps.pdb
+C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.frmOlshopPrintApps.resources
+C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.frmLogin.resources
+C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.Properties.Resources.resources
+C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.csproj.GenerateResource.Cache
+C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.exe
+C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.pdb
