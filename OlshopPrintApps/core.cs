@@ -273,7 +273,7 @@ namespace OlshopPrintApps
                 {   
                     //PRINT LABEL
                     case LabelType.PRINTLABEL:
-                        server.Documents.Open(Application.StartupPath + @"\PRINTLABEL.lab");
+                        server.Documents.Open(Application.StartupPath + @"\PRINTLxABEL.lab");
                         server.PrinterSystem();
                         doc = server.ActiveDocument;
 

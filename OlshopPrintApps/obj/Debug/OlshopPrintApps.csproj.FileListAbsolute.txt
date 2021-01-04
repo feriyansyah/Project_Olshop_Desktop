@@ -7,3 +7,6 @@ C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.Prop
 C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.csproj.GenerateResource.Cache
 C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.exe
 C:\Olshop Project\OlshopPrintApps\OlshopPrintApps\obj\Debug\OlshopPrintApps.pdb
+C:\Olshop Project\gitHub\Desktop\Project_Olshop_Desktop\OlshopPrintApps\bin\Debug\OlshopPrintApps.exe.config
+C:\Olshop Project\gitHub\Desktop\Project_Olshop_Desktop\OlshopPrintApps\obj\Debug\OlshopPrintApps.exe
+C:\Olshop Project\gitHub\Desktop\Project_Olshop_Desktop\OlshopPrintApps\obj\Debug\OlshopPrintApps.pdb
