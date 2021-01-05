@@ -143,7 +143,7 @@ namespace OlshopPrintApps
                 return;
             }
 
-            c.CUD(string.Format("update users set printstatus=1 where email='{0}'", email));
+            c.CUD(string.Format("UPDATE users SET printstatus=1 WHERE useremail='{0}'", email));
         }
         public void clear()
         {

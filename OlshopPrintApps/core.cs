@@ -273,7 +273,7 @@ namespace OlshopPrintApps
                 {   
                     //PRINT LABEL
                     case LabelType.PRINTLABEL:
-                        server.Documents.Open(Application.StartupPath + @"\PRINTLxABEL.lab");
+                        server.Documents.Open(Application.StartupPath + @"\PRINTLABEL.lab");
                         server.PrinterSystem();
                         doc = server.ActiveDocument;
 
@@ -283,9 +283,9 @@ namespace OlshopPrintApps
                         //doc.Printer.SwitchTo("HP LaserJet Professional P1102");
 
                         doc.Variables.FormVariables.Item("olshopname").Value = detail[0].ToString();
-                        doc.Variables.FormVariables.Item("nama").Value = detail[2].ToString();
-                        doc.Variables.FormVariables.Item("alamat").Value = detail[3].ToString();
-                        doc.Variables.FormVariables.Item("email").Value = detail[1].ToString();
+                        doc.Variables.FormVariables.Item("nama").Value = detail[1].ToString();
+                        doc.Variables.FormVariables.Item("alamat").Value = detail[2].ToString();
+                        doc.Variables.FormVariables.Item("email").Value = detail[3].ToString();
                         doc.Variables.FormVariables.Item("hp").Value = detail[4].ToString();
                         doc.Variables.FormVariables.Item("tanggalpesan").Value = detail[5].ToString();
                         doc.Variables.FormVariables.Item("qty").Value = detail[6].ToString();
